@@ -18,6 +18,7 @@
 
 ## Query to monitor Job Batch Execution
 
+### Data model
 * SELECT * FROM USER;
 
 ### Job Execution
