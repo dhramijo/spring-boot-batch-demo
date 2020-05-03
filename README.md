@@ -5,6 +5,14 @@
 
 ## Load CSV file to h2 db
 
+* Csv file
+
+| Id | Name | Dept | Salary |
+|:---:| :---:|:---:|:---:|
+| 1  | Peter  | 001 | 12000 |
+| 2  | Mike  | 002 | 13000 |
+| 3 | Ryan | 003 | 10000 |
+
 * http://localhost:8081/load - Trigger point for Spring Batch
 * http://localhost:8081/h2-console - H2 Console for querying the in-memory tables.
 
