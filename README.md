@@ -1,5 +1,8 @@
 # Spring Boot with Spring Batch Example
 
+## Spring Batch Architecture
+![](src/main/resources/images/spring_batch_architecture.png)
+
 ## Load CSV file to h2 db
 
 * http://localhost:8081/load - Trigger point for Spring Batch
