@@ -5,7 +5,7 @@
 
 ## Load CSV file to h2 db
 
-* Csv file
+* Csv file example:
 
 | Id | Name | Dept | Salary |
 |:---:| :---:|:---:|:---:|
